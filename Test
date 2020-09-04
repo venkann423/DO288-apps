@@ -1,0 +1,2 @@
+Value in the APP_MSG env var is => Test Message
+Error: ENOENT: no such file or directory, open '/opt/app-root/secure/myapp.sec'
